@@ -1,0 +1,63 @@
+{
+	"editor.inlineSuggest.enabled": true,
+	"github.copilot.enable": {
+		"*": true,
+		"yaml": false,
+		"plaintext": true,
+		"markdown": false
+	},
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"workbench.iconTheme": "material-icon-theme",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"workbench.editor.untitled.hint": "hidden",
+	"liveServer.settings.donotShowInfoMsg": true,
+	"workbench.startupEditor": "none",
+	"git.confirmSync": true,
+	"[css]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.minimap.enabled": false,
+	"prettier.bracketSameLine": true,
+	"prettier.endOfLine": "auto",
+	"prettier.htmlWhitespaceSensitivity": "strict",
+	"prettier.useTabs": true,
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"quokka.showStartViewOnFeatureRelease": false,
+	"quokka.showOutputOnStart": false,
+	"[python]": {
+		"editor.formatOnType": true
+	},
+	"php.validate.executablePath": "C:/xampp/php/php.exe",
+	"workbench.sideBar.location": "right",
+	"editor.fontSize": 13,
+	"editor.wordWrap": "on",
+	"editor.autoClosingBrackets": "always",
+	"editor.autoClosingOvertype": "always",
+	"editor.autoClosingQuotes": "always",
+	"editor.autoIndent": "advanced",
+	"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"[php]": {
+		"editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+	},
+	"editor.cursorBlinking": "expand",
+	"editor.scrollbar.vertical": "hidden",
+	"editor.overviewRulerBorder": false,
+	"editor.hideCursorInOverviewRuler": true,
+	"editor.guides.indentation": false,
+	"indenticator.width": 0.1,
+	"indenticator.color.dark": "rgba(255,255,255,0.1)",
+	"workbench.editor.showTabs": false,
+	"extensions.autoUpdate": "onlyEnabledExtensions",
+	"editor.matchBrackets": "never",
+	"editor.glyphMargin": false,
+	"workbench.statusBar.visible": false,
+	"workbench.activityBar.visible": false,
+	"terminal.integrated.env.windows": {},
+	"window.zoomLevel": 1
+}
